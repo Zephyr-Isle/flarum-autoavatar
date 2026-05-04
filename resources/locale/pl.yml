@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Ustawienia automatycznego awatara
+      mode_label: Tryb generowania awatara
+      modes:
+        letter: Awatar literowy
+        api: API losowych obrazów
+        multiavatar: Multiavatar (SVG)
+      letter_section: Ustawienia awatara literowego
+      letter_bg_color_label: Kolor tła (Hex)
+      letter_text_color_label: Kolor tekstu (Hex)
+      letter_shape_circle_label: Okrągły kształt
+      api_section: Ustawienia API
+      api_url_label: Główny URL API
+      api_url_help: np. https://picsum.photos/200
+      api_fallback_url_label: Rezerwowy URL API (opcjonalnie)

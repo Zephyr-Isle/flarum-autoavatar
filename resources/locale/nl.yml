@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Automatische Avatar Instellingen
+      mode_label: Avatar Generatie Modus
+      modes:
+        letter: Letter Avatar
+        api: Willekeurige Afbeelding API
+        multiavatar: Multiavatar (SVG)
+      letter_section: Letter Avatar Instellingen
+      letter_bg_color_label: Achtergrondkleur (Hex)
+      letter_text_color_label: Tekstkleur (Hex)
+      letter_shape_circle_label: Cirkelvorm
+      api_section: API Instellingen
+      api_url_label: Primaire API URL
+      api_url_help: bijv. https://picsum.photos/200
+      api_fallback_url_label: Reserve API URL (Optioneel)

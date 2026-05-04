@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Nastavení automatického avatara
+      mode_label: Režim generování avatara
+      modes:
+        letter: Písmenný avatar
+        api: API náhodných obrázků
+        multiavatar: Multiavatar (SVG)
+      letter_section: Nastavení písmenného avatara
+      letter_bg_color_label: Barva pozadí (Hex)
+      letter_text_color_label: Barva textu (Hex)
+      letter_shape_circle_label: Kruhový tvar
+      api_section: Nastavení API
+      api_url_label: Primární URL API
+      api_url_help: např. https://picsum.photos/200
+      api_fallback_url_label: Záložní URL API (volitelné)

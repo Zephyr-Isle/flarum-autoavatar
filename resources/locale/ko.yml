@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: 자동 아바타 설정
+      mode_label: 아바타 생성 모드
+      modes:
+        letter: 글자 아바타
+        api: 랜덤 이미지 API
+        multiavatar: Multiavatar (SVG)
+      letter_section: 글자 아바타 설정
+      letter_bg_color_label: 배경색 (Hex)
+      letter_text_color_label: 글자색 (Hex)
+      letter_shape_circle_label: 원형 모양
+      api_section: API 설정
+      api_url_label: 기본 API URL
+      api_url_help: 예: https://picsum.photos/200
+      api_fallback_url_label: 보조 API URL (선택 사항)

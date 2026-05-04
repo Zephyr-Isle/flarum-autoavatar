@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Setări Avatar Automat
+      mode_label: Mod Generare Avatar
+      modes:
+        letter: Avatar Literă
+        api: API Imagine Aleatorie
+        multiavatar: Multiavatar (SVG)
+      letter_section: Setări Avatar Literă
+      letter_bg_color_label: Culoare Fundal (Hex)
+      letter_text_color_label: Culoare Text (Hex)
+      letter_shape_circle_label: Formă Circulară
+      api_section: Setări API
+      api_url_label: URL API Principal
+      api_url_help: ex. https://picsum.photos/200
+      api_fallback_url_label: URL API de Rezervă (Opțional)

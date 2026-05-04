@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Otomatik Avatar Ayarları
+      mode_label: Avatar Oluşturma Modu
+      modes:
+        letter: Harf Avatarı
+        api: Rastgele Resim API'si
+        multiavatar: Multiavatar (SVG)
+      letter_section: Harf Avatarı Ayarları
+      letter_bg_color_label: Arka Plan Rengi (Hex)
+      letter_text_color_label: Metin Rengi (Hex)
+      letter_shape_circle_label: Dairesel Şekil
+      api_section: API Ayarları
+      api_url_label: Birincil API URL'si
+      api_url_help: örn. https://picsum.photos/200
+      api_fallback_url_label: Yedek API URL'si (Opsiyonel)

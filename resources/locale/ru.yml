@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Настройки автоматического аватара
+      mode_label: Режим генерации аватара
+      modes:
+        letter: Буквенный аватар
+        api: API случайных изображений
+        multiavatar: Multiavatar (SVG)
+      letter_section: Настройки буквенного аватара
+      letter_bg_color_label: Цвет фона (Hex)
+      letter_text_color_label: Цвет текста (Hex)
+      letter_shape_circle_label: Круглая форма
+      api_section: Настройки API
+      api_url_label: Основной URL API
+      api_url_help: напр., https://picsum.photos/200
+      api_fallback_url_label: Резервный URL API (опционально)

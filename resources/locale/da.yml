@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Automatiske avatarindstillinger
+      mode_label: Avatar genereringstilstand
+      modes:
+        letter: Bogstav-avatar
+        api: Tilfældig billed-API
+        multiavatar: Multiavatar (SVG)
+      letter_section: Bogstav-avatarindstillinger
+      letter_bg_color_label: Baggrundsfarve (Hex)
+      letter_text_color_label: Tekstfarve (Hex)
+      letter_shape_circle_label: Cirkulær form
+      api_section: API-indstillinger
+      api_url_label: Primær API-URL
+      api_url_help: f.eks. https://picsum.photos/200
+      api_fallback_url_label: Fallback API-URL (Valgfrit)

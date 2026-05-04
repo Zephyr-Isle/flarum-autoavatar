@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: إعدادات الصورة الرمزية التلقائية
+      mode_label: وضع إنشاء الصورة الرمزية
+      modes:
+        letter: صورة رمزية بالحرف
+        api: واجهة برمجة تطبيقات لصور عشوائية
+        multiavatar: Multiavatar (SVG)
+      letter_section: إعدادات الصورة الرمزية بالحرف
+      letter_bg_color_label: لون الخلفية (Hex)
+      letter_text_color_label: لون النص (Hex)
+      letter_shape_circle_label: شكل دائري
+      api_section: إعدادات واجهة برمجة التطبيقات
+      api_url_label: عنوان URL الأساسي لواجهة برمجة التطبيقات
+      api_url_help: مثال: https://picsum.photos/200
+      api_fallback_url_label: عنوان URL الاحتياطي لواجهة برمجة التطبيقات (اختياري)

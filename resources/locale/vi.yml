@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Cài đặt Avatar tự động
+      mode_label: Chế độ tạo Avatar
+      modes:
+        letter: Avatar chữ cái
+        api: API hình ảnh ngẫu nhiên
+        multiavatar: Multiavatar (SVG)
+      letter_section: Cài đặt Avatar chữ cái
+      letter_bg_color_label: Màu nền (Hex)
+      letter_text_color_label: Màu chữ (Hex)
+      letter_shape_circle_label: Hình tròn
+      api_section: Cài đặt API
+      api_url_label: URL API chính
+      api_url_help: ví dụ: https://picsum.photos/200
+      api_fallback_url_label: URL API dự phòng (Tùy chọn)

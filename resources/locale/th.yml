@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: การตั้งค่ารูปประจำตัวอัตโนมัติ
+      mode_label: โหมดการสร้างรูปประจำตัว
+      modes:
+        letter: รูปประจำตัวตัวอักษร
+        api: API รูปภาพแบบสุ่ม
+        multiavatar: Multiavatar (SVG)
+      letter_section: การตั้งค่ารูปประจำตัวตัวอักษร
+      letter_bg_color_label: สีพื้นหลัง (Hex)
+      letter_text_color_label: สีข้อความ (Hex)
+      letter_shape_circle_label: รูปทรงวงกลม
+      api_section: การตั้งค่า API
+      api_url_label: URL API หลัก
+      api_url_help: เช่น https://picsum.photos/200
+      api_fallback_url_label: URL API สำรอง (ไม่บังคับ)

@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: Automatikus avatar beállítások
+      mode_label: Avatar generálási mód
+      modes:
+        letter: Betű avatar
+        api: Véletlenszerű kép API
+        multiavatar: Multiavatar (SVG)
+      letter_section: Betű avatar beállítások
+      letter_bg_color_label: Háttérszín (Hex)
+      letter_text_color_label: Szövegszín (Hex)
+      letter_shape_circle_label: Kör alakú
+      api_section: API beállítások
+      api_url_label: Elsődleges API URL
+      api_url_help: pl. https://picsum.photos/200
+      api_fallback_url_label: Tartalék API URL (opcionális)

@@ -21,7 +21,7 @@
     },
     "require": {
         "flarum/core": "^2.0",
-        "multiavatar/multiavatar-php": "^1.1",
+        "multiavatar/multiavatar-php": "^1.0",
         "guzzlehttp/guzzle": "^7.0"
     },
     "autoload": {

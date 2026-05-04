@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: 自动头像设置
+      mode_label: 头像生成模式
+      modes:
+        letter: 字母头像
+        api: 随机图片 API
+        multiavatar: Multiavatar (多元头像)
+      letter_section: 字母头像设置
+      letter_bg_color_label: 背景颜色 (Hex)
+      letter_text_color_label: 文字颜色 (Hex)
+      letter_shape_circle_label: 圆形外观
+      api_section: API 设置
+      api_url_label: 主 API 地址
+      api_url_help: 例如：https://picsum.photos/200
+      api_fallback_url_label: 备用 API 地址 (可选)

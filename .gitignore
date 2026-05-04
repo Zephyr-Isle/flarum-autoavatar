@@ -1,0 +1,9 @@
+/vendor/
+/js/node_modules/
+.DS_Store
+.phpstorm.meta.php
+.phpunit.result.cache
+_ide_helper.php
+composer.lock
+.env
+.vscode/

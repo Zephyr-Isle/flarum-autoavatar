@@ -1,0 +1,17 @@
+zephyrisle-autoavatar:
+  admin:
+    settings:
+      title: 自動アバター設定
+      mode_label: アバター生成モード
+      modes:
+        letter: 文字アバター
+        api: ランダム画像 API
+        multiavatar: Multiavatar (SVG)
+      letter_section: 文字アバターの設定
+      letter_bg_color_label: 背景色 (Hex)
+      letter_text_color_label: 文字色 (Hex)
+      letter_shape_circle_label: 円形
+      api_section: API 設定
+      api_url_label: プライマリ API URL
+      api_url_help: 例: https://picsum.photos/200
+      api_fallback_url_label: フォールバック API URL (任意)

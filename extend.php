@@ -29,5 +29,6 @@ return [
         ->default('zephyrisle-autoavatar.letter_bg_color', '#2196f3')
         ->default('zephyrisle-autoavatar.letter_text_color', '#ffffff')
         ->default('zephyrisle-autoavatar.letter_shape_circle', true)
-        ->default('zephyrisle-autoavatar.api_url', 'https://picsum.photos/200'),
+        ->default('zephyrisle-autoavatar.api_url', 'https://picsum.photos/200')
+        ->default('zephyrisle-autoavatar.api_fallback_url', ''),
 ];

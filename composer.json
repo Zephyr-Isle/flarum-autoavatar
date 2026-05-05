@@ -15,10 +15,11 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/Zephyr-Isle/flarum-AutoAvatar/issues",
-        "source": "https://github.com/Zephyr-Isle/flarum-AutoAvatar"
+        "issues": "https://github.com/Zephyr-Isle/flarum-autoavatar/issues",
+        "source": "https://github.com/Zephyr-Isle/flarum-autoavatar"
     },
     "require": {
+        "php": "^8.0",
         "flarum/core": "^2.0",
         "multiavatar/multiavatar-php": "^1.0",
         "guzzlehttp/guzzle": "^7.0"
@@ -38,7 +39,5 @@
                 "color": "#fff"
             }
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }

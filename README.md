@@ -21,7 +21,7 @@ composer require zephyrisle/flarum-autoavatar
 1. Enable the extension in your Flarum admin panel.
 2. Go to the **Auto Avatar** settings page.
 3. Select your preferred avatar mode:
-   - **Letter Avatar**: Set background color, text color, font size, and shape (circle or square).
+   - **Letter Avatar**: Set background color, text color, and shape (circle or square).
    - **Random Image API**: Provide a primary and fallback URL.
    - **Multiavatar**: No extra configuration needed, uses user ID/email for unique generation.
 4. Ensure your Flarum queue is running (`php flarum queue:work`) for asynchronous generation.
@@ -30,7 +30,7 @@ composer require zephyrisle/flarum-autoavatar
 
 - Flarum v2.0 or higher.
 - PHP GD extension (for Letter Avatar and Multiavatar conversion).
-- PHP 8.0 or higher.
+- PHP 8.3 or higher.
 
 ## License
 

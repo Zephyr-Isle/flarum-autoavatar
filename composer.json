@@ -19,7 +19,7 @@
         "source": "https://github.com/Zephyr-Isle/flarum-autoavatar"
     },
     "require": {
-        "php": "^8.0",
+        "php": "^8.3",
         "flarum/core": "^2.0",
         "multiavatar/multiavatar-php": "^1.0",
         "guzzlehttp/guzzle": "^7.0"

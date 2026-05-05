@@ -15,7 +15,7 @@ use Flarum\Extend;
 use Zephyrisle\AutoAvatar\Listeners\UserEventSubscriber;
 
 return [
-    (new Extend\Frontend('admin'))
+    (new Extend\Admin())
         ->js(__DIR__.'/js/dist/admin.js')
         ->css(__DIR__.'/resources/less/admin.less'),
 
